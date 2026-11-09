@@ -1,0 +1,6 @@
+{
+  "name": "28 Card Master",
+  "description": "Professional Indian Classic 28 Card Game with intelligent AI, authentic hidden trump rules, and realistic 3D-styled card table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
